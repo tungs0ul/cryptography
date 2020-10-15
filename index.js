@@ -279,7 +279,7 @@ input.addEventListener("input", function(){
 
 const AudioContext = window.AudioContext || window.webkitAudioContext;
 const ctx = new AudioContext();
-const dot = 0.025;
+const dot = 0.05;
 
 document.getElementById("morse-sound").onclick = function() {
     let t = ctx.currentTime;
