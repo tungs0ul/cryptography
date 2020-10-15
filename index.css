@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+#algoDiv {
+    text-align: center;
+}
+
+#inputDiv {
+    text-align: center;
+}
+
+#outputDiv {
+    text-align: center;
+    margin-top: 5px;
+}
+
+text-area {
+    max-width: 80% !important;
+}
